@@ -7,6 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["frontend", "ui", "framework"],
-  "author": "Your New Author Name",
+  "author": "Your Updated Author Name",
   "license": "MIT"
 }
