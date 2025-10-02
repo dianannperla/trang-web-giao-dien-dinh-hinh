@@ -1,0 +1,12 @@
+{
+  "name": "trang-web-giao-dien-dinh-hinh",
+  "version": "1.0.0",
+  "description": "Framework frontend cho giao diện người dùng",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["frontend", "ui", "framework"],
+  "author": "Tên Tác Giả",
+  "license": "MIT"
+}
